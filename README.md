@@ -1,8 +1,6 @@
 ### Hello! 👋
 
-I'm a software engineer building polished products and web experiences using modern tech stack. My expertise ranges from working independently to leading teams towards project success as a tech/team lead.
-
-I'm also a Rust and functional programming aficionado fascinated by design of compilers and programming languages. Sometimes I write music, mostly drone-ambient, which is available for free on my [Bandcamp](https://hypnosense.bandcamp.com) and [Spotify](https://open.spotify.com/artist/1EqX9erOVQHCVlAwGihPS2?si=U6WzSwm0RSCnS70g_sVZXQ).
+I'm a Rust and functional programming aficionado fascinated by design of compilers and programming languages. Sometimes I write music, mostly drone-ambient, which is available for free on my [Bandcamp](https://hypnosense.bandcamp.com) and [Spotify](https://open.spotify.com/artist/1EqX9erOVQHCVlAwGihPS2?si=U6WzSwm0RSCnS70g_sVZXQ).
 
 ### Projects
 
