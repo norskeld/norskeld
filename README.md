@@ -8,7 +8,7 @@ I'm also a Rust and functional programming aficionado fascinated by design of co
 
 Some notable projects and command-line apps of mine.
 
-### Command-line apps
+#### Command-line apps
 
 - [attolog](https://github.com/norskeld/attolog#readme) <kbd>F#</kbd> — Minimal [Prolog](https://en.wikipedia.org/wiki/Prolog) interpreter.
 - [diceware](https://github.com/norskeld/diceware#readme) <kbd>Rust</kbd> — Rust crate and CLI for generating [Diceware](https://en.wikipedia.org/wiki/Diceware) passphrases.
