@@ -4,11 +4,14 @@ I'm a Rust and functional programming aficionado fascinated by design of compile
 
 ### Projects
 
-Some notable projects and command-line apps of mine.
+Some stuff I made.
+
+#### Interpreters
+
+- [attolog](https://github.com/norskeld/attolog#readme) <kbd>F#</kbd> — Minimal [Prolog](https://en.wikipedia.org/wiki/Prolog) interpreter.
 
 #### Command-line apps
 
-- [attolog](https://github.com/norskeld/attolog#readme) <kbd>F#</kbd> — Minimal [Prolog](https://en.wikipedia.org/wiki/Prolog) interpreter.
 - [diceware](https://github.com/norskeld/diceware#readme) <kbd>Rust</kbd> — Rust crate and CLI for generating [Diceware](https://en.wikipedia.org/wiki/Diceware) passphrases.
 - [pingmole](https://github.com/norskeld/pingmole#readme) <kbd>Rust</kbd> — CLI that helps to filter [Mullvad VPN](https://mullvad.net) servers and pick the closest one.
 - [arx](https://github.com/norskeld/arx#readme) <kbd>Rust</kbd> — Simple and user-friendly command-line tool for declarative scaffolding.
