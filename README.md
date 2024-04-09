@@ -6,6 +6,10 @@ I'm a Rust and functional programming aficionado fascinated by design of compile
 
 Some stuff I made.
 
+#### Web
+
+- [vm.codes](https://github.com/norskeld/vm.codes#readme) <kbd>Astro</kbd> <kbd>TypeScript</kbd> <kbd>Tailwind</kbd> — Personal website & blog.
+
 #### Interpreters
 
 - [attolog](https://github.com/norskeld/attolog#readme) <kbd>F#</kbd> — Minimal [Prolog](https://en.wikipedia.org/wiki/Prolog) interpreter.
