@@ -8,7 +8,7 @@ Some stuff I made.
 
 #### Web
 
-- [vm.codes](https://github.com/norskeld/vm.codes#readme) <kbd>Astro</kbd> <kbd>TypeScript</kbd> <kbd>Tailwind</kbd> — Personal website & blog.
+- [nrsk.dev](https://github.com/norskeld/nrsk.dev#readme) <kbd>Astro</kbd> <kbd>TypeScript</kbd> <kbd>Tailwind</kbd> — Personal website & blog.
 
 #### Interpreters
 
@@ -23,7 +23,7 @@ Some stuff I made.
 
 #### Libraries
 
-- [sigma](https://sigma.vm.codes) <kbd>TypeScript</kbd> — TypeScript parser combinator library for building fast and convenient parsers.
+- [sigma](https://sigma.nrsk.dev) <kbd>TypeScript</kbd> — TypeScript parser combinator library for building fast and convenient parsers.
 - [backpack](https://github.com/norskeld/backpack#readme) <kbd>TypeScript</kbd> — [MessagePack](https://msgpack.org) implementation with back-referencing extension.
-- [shikigami](https://github.com/norskeld/shikigami#readme) <kbd>TypeScript</kbd> — Opinionated syntax highlighting with [shiki](https://github.com/shikijs/shiki#readme) for [markdown-it](https://github.com/markdown-it/markdown-it#readme).
+- [astropress](https://github.com/norskeld/astropress#readme) <kbd>TypeScript</kbd> — [Astro](https://astro.build) integration for images and SVG compression.
 - [unindent](https://github.com/norskeld/unindent#readme) <kbd>TypeScript</kbd> — Microlibrary for unindenting multiline strings.
