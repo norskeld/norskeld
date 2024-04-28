@@ -10,7 +10,7 @@ I'm a Rust, TypeScript, and functional programming aficionado fascinated by desi
 
 #### Interpreters/languages
 
-- [zeal](https://github.com/norskeld/zeal#readme) <kbd>Rust</kbd> — Statically-typed & GC-less programming language.
+- [zeal](https://github.com/norskeld/zeal#readme) <kbd>Rust</kbd> — Statically-typed, GC-less programming language.
 - [attolog](https://github.com/norskeld/attolog#readme) <kbd>F#</kbd> — Minimal [Prolog](https://en.wikipedia.org/wiki/Prolog) interpreter.
 
 #### Command-line apps
