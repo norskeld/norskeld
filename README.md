@@ -17,7 +17,7 @@ I'm a Rust, TypeScript, and functional programming aficionado fascinated by desi
 
 - [diceware](https://github.com/norskeld/diceware#readme) <kbd>Rust</kbd> — Rust crate and CLI for generating [Diceware](https://en.wikipedia.org/wiki/Diceware) passphrases.
 - [pingmole](https://github.com/norskeld/pingmole#readme) <kbd>Rust</kbd> — CLI that helps to filter [Mullvad VPN](https://mullvad.net) servers and pick the closest one.
-- [arx](https://github.com/norskeld/arx#readme) <kbd>Rust</kbd> — Simple and user-friendly command-line tool for declarative scaffolding.
+- [decaff](https://github.com/norskeld/decaff#readme) <kbd>Rust</kbd> — Opinionated, simple, user-friendly command-line tool for declarative scaffolding.
 - [rsx](https://github.com/norskeld/rsx#readme) <kbd>Rust</kbd> — Micro CLI for interactive execution of npm & yarn scripts.
 
 #### Libraries
