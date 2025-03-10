@@ -8,8 +8,9 @@ I'm a Rust, TypeScript, and functional programming aficionado fascinated by desi
 
 - [nrsk.dev](https://github.com/norskeld/nrsk.dev#readme) <kbd>Astro</kbd> <kbd>TypeScript</kbd> <kbd>Tailwind</kbd> — Personal website & blog.
 
-#### Interpreters/languages
+#### Interpreters/compilers/languages
 
+- [cyan](https://github.com/norskeld/cyan#readme) <kbd>Rust</kbd> — C-to-Assembly (x86-64) compiler for a basic subset of C.
 - [attolog](https://github.com/norskeld/attolog#readme) <kbd>F#</kbd> — Minimal [Prolog](https://en.wikipedia.org/wiki/Prolog) interpreter.
 
 #### Command-line apps
